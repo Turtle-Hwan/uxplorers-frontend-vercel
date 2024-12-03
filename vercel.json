@@ -8,6 +8,6 @@
       "source": "/uxplorers-frontend/api/:path*/",
       "destination": "http://apis.data.go.kr/1613000/:path*/"
     },
-    {"source": "/(.*)", "destination": "/"},
+    {"source": "/(.*)", "destination": "/"}
   ]
 }
