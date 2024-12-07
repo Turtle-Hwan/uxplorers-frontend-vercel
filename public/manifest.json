@@ -4,7 +4,7 @@
   "background_color": "#ffffff",
   "description": "KUmoneyGo :: 6팀 Uxplorer UX디자인 수업 프로젝트",
   "short_name": "KUmoneyGo",
-  "start_url": "/uxplorers-frontend/",
+  "start_url": "/",
   "display": "standalone",
   "icons": [
     {
